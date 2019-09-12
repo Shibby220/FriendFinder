@@ -11,6 +11,5 @@ Friend Finder is application is similar to a dating app but for making friends i
 - HTML
 - CSS
 - Javascript
+- Node.js
 - Express
-- Node
-- JSON
